@@ -6,62 +6,72 @@
 
 
 
-# frontofbet
+# ⚽ SiaBet – Sports Betting Platform
 
+SiaBet is a modern sports betting web application focused on football, designed to provide users with an intuitive and responsive interface for exploring football matches and sports-related information.
 
-This template should help get you started developing with Vue 3 in Vite.
+## 🚀 Overview
 
-## Recommended IDE Setup
+The project is built with Vue 3 and Vite, focusing on modern frontend development practices, reusable components, and a responsive user interface.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Features
 
-## Recommended Browser Setup
+- Modern and responsive user interface
+- Football-related data integration
+- Sports match information
+- Dynamic frontend components
+- Clean and maintainable code structure
+- Optimized development environment
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## 🛠️ Tech Stack
 
-## Customize configuration
+| Technology | Purpose |
+|---|---|
+| Vue 3 | Frontend Framework |
+| JavaScript | Programming Language |
+| Vite | Build Tool |
+| HTML5 | Markup |
+| CSS3 | Styling |
+| Sportmonks API | Football Data Integration |
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 📂 Project Setup
 
-## Project Setup
+Clone the repository:
 
-```sh
+```bash
+git clone https://github.com/Ali-Reihani/siabet.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd siabet
+```
+
+Install dependencies:
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+Start the development server:
 
-```sh
+```bash
 npm run dev
 ```
 
-The live football page uses the Sportmonks Football API through a local server-side
-proxy. Create an account at [Sportmonks](https://my.sportmonks.com/register), then
-open **API → Tokens** in its dashboard and create a token. In the project folder,
-copy `.env.example` to `.env`, set `SPORTMONKS_API_TOKEN` to that token, and restart
-the development server. Never add the token to frontend code or share it in chat.
-Available leagues depend on your Sportmonks plan. Production deployments must
-route `/api/football` to `server/football.js` through an HTTPS reverse proxy.
+## 📸 Screenshots
 
-### Compile and Minify for Production
+Screenshots of the application will be added here.
 
-```sh
-npm run build
-```
+## 👨‍💻 Developer
 
-### Lint with [ESLint](https://eslint.org/)
+**Ali Reihani**
 
-```sh
-npm run lint
-```
+Frontend Developer | Vue.js Specialist
 
-### Player photo credits
+- GitHub: https://github.com/Ali-Reihani
 
-- Bukayo Saka and Mohamed Salah: Bryan Berlin / WikiPortraits, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Saka](https://commons.wikimedia.org/wiki/File:Bukayo_Saka_England_v_Ghana_23_June_2026-057.jpg), [Salah](https://commons.wikimedia.org/wiki/File:Mohamed_Salah_Argentina_v_Egypt_7_July_2026-159.jpg).
-- Harry Kane: Oleg Bkhambri (Voltmetro), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://commons.wikimedia.org/wiki/File:Harry_Kane_2018-07-03_1.jpg).
-- Phil Foden: Hossein Zohrevand / Tasnim News Agency, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [Source](https://commons.wikimedia.org/wiki/File:Phil_Foden_2022-11-21_1.jpg).
+## 📄 License
+
+This project is developed for educational and portfolio purposes.(https://commons.wikimedia.org/wiki/File:Phil_Foden_2022-11-21_1.jpg).
