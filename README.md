@@ -1,4 +1,13 @@
+#Home page<img width="606" height="719" alt="Screenshot 2026-08-23 152325" src="https://github.com/user-attachments/assets/7b6f739d-6c20-49ac-8f0f-e707efcd4a17" />
+
+#login/signup page<img width="1920" height="1080" alt="Screenshot 2026-09-03 135841" src="https://github.com/user-attachments/assets/7ae13e89-8631-4f21-abe1-cf57146a62dd" />
+
+#player page<img width="1920" height="1080" alt="Screenshot 2026-09-04 181834" src="https://github.com/user-attachments/assets/a836756f-56ab-44b8-b8bb-5dfbbf10d8bb" />
+
+
+
 # frontofbet
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
